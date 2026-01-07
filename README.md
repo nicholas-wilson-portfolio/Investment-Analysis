@@ -1,5 +1,5 @@
 # Investment-Analysis
-This repository contains structured investment analyses using fundamental and technical metrics to evaluate growth potential and market mispricing.
+This repository is a personal investment research project that contains structured investment analyses using fundamental and technical metrics to evaluate growth potential and market mispricing.
 ## Overview
 Each analysis determines a grade /100 based on a consistent framework that looks at:\
 • Business performance and expected growth\
