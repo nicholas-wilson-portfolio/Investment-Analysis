@@ -9,12 +9,15 @@ Each analysis determines a grade /100 based on a consistent framework that looks
 The goal is not to "pick winners", but to practice making structured, reasoned investment decisions. The scores and conclusions reflect my own learning and interpretation, **not investment advice.**
 ## Fundamental Metrics Used
 • Earnings trend TTM\
+• Forward P/E vs 5y Avg\
 • Institutional ownership\
 • P/B vs industry\
 • Revenue growth trend YoY\
 • Margin Expansion\
+• Debt/Equity\
 • Free cash flow\
 • Short interest
+
 ## Technical Indicators Used
 • Support and resistance zones\
 • Chart patterns\
